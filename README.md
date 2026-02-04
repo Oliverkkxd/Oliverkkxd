@@ -92,3 +92,15 @@ Estou sempre em busca de evolução, novas stacks e, claro, um bom networking. V
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Oliverkkxd&style=flat-square&color=123845" /></p> 
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/>
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oliverkkxd/Oliverkkxd/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oliverkkxd/Oliverkkxd/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Oliverkkxd/Oliverkkxd/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
+
+
