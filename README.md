@@ -31,6 +31,8 @@ Estou sempre em busca de evolução, novas stacks e, claro, um bom networking. V
 
 ### 🤖 Linguagens e Tecnologias
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+
 <img 
     align="left" 
     alt="HTML"
@@ -39,6 +41,7 @@ Estou sempre em busca de evolução, novas stacks e, claro, um bom networking. V
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
